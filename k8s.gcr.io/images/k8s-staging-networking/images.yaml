@@ -1,5 +1,6 @@
 - name: ip-masq-agent
   dmap:
+    "sha256:d9270209af61619fc5ccf08d287539ae979b88e5b968b7f5b139a6f40cec80a2": ["v2.9.1"]
     "sha256:bb14c14b7a829909ec3e76bc0137269b9e52c4353522f9a5156e3f7903e4cdbe": ["v2.9.0"]
     "sha256:d8cd0c7118e74bb9b1c90b2fd3c0c90d52d5d5ecea63b06e08e869a9d6e59fed": ["v2.8.0"]
     "sha256:e02d4a264ea8a03f6ef0f222a9a979eaeb9954ef603a40e77f3fe8827947a9a6": ["v2.8.0__linux_amd64"]
